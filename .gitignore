@@ -1,0 +1,7 @@
+*.swp
+*.out
+*.dll
+
+test-script.py
+base-cmd.txt
+errors.txt
