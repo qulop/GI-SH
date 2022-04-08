@@ -1,3 +1,5 @@
+#include "matches-search.h"
+
 #define CMDERR      none
 #define ALIERR      none
 #define SYNERR      none
